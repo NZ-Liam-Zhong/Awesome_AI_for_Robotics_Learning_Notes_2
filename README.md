@@ -35,9 +35,30 @@ GAIL can be more effective for complex, high-dimensional tasks (e.g., physics-ba
 Traditional Inverse Reinforcement Learning (IRL) often requires reinforcement learning in an inner loop to optimize a learned cost function, making it computationally expensive and slow. GAIL simplifies this by directly learning a policy, bypassing the need for the IRL intermediate step.<br>
 (3)Generative Approach:<br>
 GAIL is closely related to Generative Adversarial Networks (GANs), where the learner's policy is trained to "fool" the discriminator into thinking the generated state-action pairs are from the expert. This allows GAIL to exactly mimic the expert's behavior, whereas BC may not achieve such precision without extensive fine-tuning.<br>
-5.Notes<br>
+5.**Notes**<br>
 1.Behaviour CLoning has severe Covariate shift problem, GAIL can improve that (error in new input)<br>
-2.Traditional Inverse Reinforcement Learning requires reinforcement learning in an inner loop to optimize a learned cost function, making it computationally expensive and slow.
+2.Traditional Inverse Reinforcement Learning requires reinforcement learning in an inner loop to optimize a learned cost function, making it computationally expensive and slow.<br>
+6.[Stable-BC: Controlling Covariate Shift with Stable Behavior Cloning](https://arxiv.org/pdf/2408.06246)<br>
+(1)**Covariate Shift**:Behavior cloning is a common imitation learning
+ paradigm. Under behavior cloning the robot collects expert
+ demonstrations, and then trains a policy to match the actions
+ taken by the expert. This works well when the robot learner
+ visits states where the expert has already demonstrated the
+ correct action; but inevitably the robot will also encounter new
+ states outside of its training dataset. If the robot learner takes
+ the wrong action at these new states it could move farther from
+ the training data, which in turn leads to increasingly incorrect
+ actions and compounding errors. Existing works try to address
+ this fundamental challenge by augmenting or enhancing the
+ training data. By contrast, in our paper we develop the control
+ theoretic properties of behavior cloned policies. Specifically, we
+ consider the error dynamics between the system’s current state
+ and the states in the expert dataset. From the error dynamics
+ we derive model-based and model-free conditions for stability:
+ under these conditions the robot shapes its policy so that its
+ current behavior converges towards example behaviors in the
+ expert dataset. <br>
+ (2)Uses control theory methods. I will share this after I am familiar with control theory.
 
 
 ## Industry
