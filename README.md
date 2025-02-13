@@ -22,6 +22,7 @@ demo agent != perfect agent<br>
 problem: policy and reward can have many solutions.<br>
 ![aaaa80452904669440ff7481ce201b0](https://github.com/user-attachments/assets/806693d3-452f-4007-9e5f-3080ddb9afa9)<br>
 ![54dc7c50d1d679e35f5bcf14e4e20ed](https://github.com/user-attachments/assets/37bbd003-492d-4edb-89bc-8d9078c96e79)<br>
+4.Generative Adversarial Imitation learning uses GAN-related theory into imitation learning<br>
 
 
 
