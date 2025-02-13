@@ -25,6 +25,7 @@ Slides for understanding basic concepts for reinforcement learning. **Institutio
 ## Papers
 
 ### (1) Reinforcement Learning & Imitation Learning
+(1)[Simple Test Time Scaling](https://arxiv.org/html/2501.19393v2) Fei-Fei Li's team at stanford 
 
 
 ### (2) Vision-Language Action Model 
