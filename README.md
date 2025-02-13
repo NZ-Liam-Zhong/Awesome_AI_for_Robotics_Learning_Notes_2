@@ -13,9 +13,9 @@ As ChatGPT and RT2 appears, many researchers start to do reseaches about AI for 
 
 ## Tutorials & Slides
 1.[Reinforcement Learning Basics by Fei-Fei Li](https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
-Slides for understanding basic concepts for reinforcement learning. **Institution： Stanford University** They have replicated the success of GPT o1, which is inspiring for robotics.
-2.[What can RL do?](https://neptune.ai/blog/reinforcement-learning-applications)
-
+Slides for understanding basic concepts for reinforcement learning. **Institution： Stanford University** They have replicated the success of GPT o1, which is inspiring for robotics.<br>
+2.[What can RL do 1?](https://neptune.ai/blog/reinforcement-learning-applications)<br>
+[what can RL do2?](https://onlinedegrees.scu.edu/media/blog/9-examples-of-reinforcement-learning)
 # Paper List
 1.
 
