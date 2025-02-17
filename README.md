@@ -77,6 +77,15 @@ marks, our experiments reveal stark strengths and weaknesses in these different
  Project page: https://seohong.me/projects/ogbench
  Repository: https://github.com/seohongpark/ogbench
 
+ 7.[Implicit Q-Learning](https://www.cs.utexas.edu/~yukez/cs391r_fall2023/slides/pre_10-05_Marlan.pdf)<br>
+ ![image](https://github.com/user-attachments/assets/a7fbff07-af7d-4099-a7a4-fe88c79ebde1)<br>
+ ![image](https://github.com/user-attachments/assets/d373cb07-e867-4124-ac78-3c49413137db)<br>
+ Policy extraction performed by advantage weighted regression<br>
+ ![image](https://github.com/user-attachments/assets/4cf05b3b-2cfd-49cc-97f2-d26a78a6a2db)<br>
+
+
+
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
