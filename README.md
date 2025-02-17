@@ -59,6 +59,8 @@ GAIL is closely related to Generative Adversarial Networks (GANs), where the lea
  current behavior converges towards example behaviors in the
  expert dataset. <br>
  (2)Uses control theory methods. I will share this after I am familiar with control theory.
+<br>
+7.[OGBench](https://arxiv.org/pdf/2410.20092) A very good benchmark for goal conditioned RL.
 
 
 ## Industry
