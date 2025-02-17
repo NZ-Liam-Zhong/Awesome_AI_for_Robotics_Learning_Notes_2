@@ -82,6 +82,11 @@ marks, our experiments reveal stark strengths and weaknesses in these different
  ![image](https://github.com/user-attachments/assets/d373cb07-e867-4124-ac78-3c49413137db)<br>
  Policy extraction performed by advantage weighted regression<br>
  ![image](https://github.com/user-attachments/assets/4cf05b3b-2cfd-49cc-97f2-d26a78a6a2db)<br>
+**Problem**: Assuming not a stachastic environment<br>
+![image](https://github.com/user-attachments/assets/6a45e565-9dc5-480e-b250-ac41c78321a3)<br>
+how to solve the proble?<br>
+![image](https://github.com/user-attachments/assets/48986d50-149a-4619-ab3a-b83b35998ff2)<br>
+![image](https://github.com/user-attachments/assets/2ecc42b7-d011-4f6a-9077-b64e977d0cc3)
 
 
 
