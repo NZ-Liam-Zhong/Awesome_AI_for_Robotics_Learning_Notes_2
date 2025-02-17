@@ -60,7 +60,22 @@ GAIL is closely related to Generative Adversarial Networks (GANs), where the lea
  expert dataset. <br>
  (2)Uses control theory methods. I will share this after I am familiar with control theory.
 <br>
-7.[OGBench](https://arxiv.org/pdf/2410.20092) A very good benchmark for goal conditioned RL.
+7.[OGBench](https://arxiv.org/pdf/2410.20092) A very good benchmark for goal conditioned RL.Offline goal-conditioned reinforcement learning (GCRL) is a major problem in re
+inforcement learning (RL) because it provides a simple, unsupervised, and domain
+agnostic way to acquire diverse behaviors and representations from unlabeled data
+ without rewards. Despite the importance of this setting, we lack a standard bench
+mark that can systematically evaluate the capabilities of offline GCRL algorithms.
+ In this work, we propose OGBench, a new, high-quality benchmark for algorithms
+ research in offline goal-conditioned RL. OGBench consists of 8 types of envi
+ronments, 85 datasets, and reference implementations of 6 representative offline
+ GCRLalgorithms. We have designed these challenging and realistic environments
+ and datasets to directly probe different capabilities of algorithms, such as stitch
+ing, long-horizon reasoning, and the ability to handle high-dimensional inputs and
+ stochasticity. While representative algorithms may rank similarly on prior bench
+marks, our experiments reveal stark strengths and weaknesses in these different
+ capabilities, providing a strong foundation for building new algorithms.
+ Project page: https://seohong.me/projects/ogbench
+ Repository: https://github.com/seohongpark/ogbench
 
 
 ## Industry
