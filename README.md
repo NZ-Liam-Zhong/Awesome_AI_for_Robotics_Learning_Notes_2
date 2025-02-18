@@ -87,6 +87,9 @@ marks, our experiments reveal stark strengths and weaknesses in these different
 how to solve the problem?<br>
 ![image](https://github.com/user-attachments/assets/48986d50-149a-4619-ab3a-b83b35998ff2)<br>
 ![image](https://github.com/user-attachments/assets/2ecc42b7-d011-4f6a-9077-b64e977d0cc3)
+error bound<br>
+![image](https://github.com/user-attachments/assets/c89fa303-557e-49c0-a801-0ba612c33db1)
+
 
 8.lambda big: optimistic small: pessimistic<br>
 
@@ -98,8 +101,6 @@ how to solve the problem?<br>
 11.[Unsupervised-to-Online Reinforcement Learning](https://arxiv.org/pdf/2408.14785) sergey, seohong park<br>
 ![image](https://github.com/user-attachments/assets/df29bdc7-ac3b-43d6-9d0f-6e70a9b652c3)<br>
 ![image](https://github.com/user-attachments/assets/e0596b5e-8ca5-4d62-8692-13fa66ebe52b)<br>
-
-
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
