@@ -93,7 +93,7 @@ how to solve the problem?<br>
 9.<br>
 ![image](https://github.com/user-attachments/assets/34c3dcf0-a791-4c67-87d3-92450cedf280)<br>
 
-
+10.experiences about RL:[Value-Based Deep RL Scales Predictably](https://arxiv.org/pdf/2502.04327?)
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
