@@ -90,6 +90,8 @@ how to solve the problem?<br>
 
 8.lambda big: optimistic small: pessimistic<br>
 
+9.<br>
+![image](https://github.com/user-attachments/assets/34c3dcf0-a791-4c67-87d3-92450cedf280)<br>
 
 
 ## Industry
