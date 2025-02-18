@@ -88,7 +88,7 @@ how to solve the problem?<br>
 ![image](https://github.com/user-attachments/assets/48986d50-149a-4619-ab3a-b83b35998ff2)<br>
 ![image](https://github.com/user-attachments/assets/2ecc42b7-d011-4f6a-9077-b64e977d0cc3)
 
-
+8.lambda big: optimistic small: pessimistic<br>
 
 
 
