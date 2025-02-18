@@ -94,6 +94,12 @@ how to solve the problem?<br>
 ![image](https://github.com/user-attachments/assets/34c3dcf0-a791-4c67-87d3-92450cedf280)<br>
 
 10.experiences about RL:[Value-Based Deep RL Scales Predictably](https://arxiv.org/pdf/2502.04327?)
+
+11.[Unsupervised-to-Online Reinforcement Learning](https://arxiv.org/pdf/2408.14785) sergey, seohong park<br>
+![image](https://github.com/user-attachments/assets/df29bdc7-ac3b-43d6-9d0f-6e70a9b652c3)<br>
+![image](https://github.com/user-attachments/assets/e0596b5e-8ca5-4d62-8692-13fa66ebe52b)<br>
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
