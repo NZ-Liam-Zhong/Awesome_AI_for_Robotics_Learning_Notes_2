@@ -123,7 +123,7 @@ error bound<br>
 (c)[ADVANTAGE-WEIGHTED REGRESSION (AWR)](https://arxiv.org/pdf/1910.00177) AWR效果好于RWR<br>
 ![image](https://github.com/user-attachments/assets/27b9c2c3-145f-4638-a352-b0ee971d1a45)<br>
 
-16.Randomn Doubt
+16.[Randomn Doubt is important in doing research,example"Is Noise Conditioning Necessary for Denoising Generative Models?"](https://arxiv.org/pdf/2502.13129)
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
