@@ -98,6 +98,11 @@ error bound<br>
 
 10.experiences about RL:[Value-Based Deep RL Scales Predictably](https://arxiv.org/pdf/2502.04327?)
 
+11.[Scaling Test-Time Compute Without Verification
+ or RL is Suboptima](https://arxiv.org/pdf/2502.12118)<br>
+ ![image](https://github.com/user-attachments/assets/8c4a9279-f2ef-4cc0-be09-231af3d89ded)<br>
+
+
 11.[Unsupervised-to-Online Reinforcement Learning](https://arxiv.org/pdf/2408.14785) sergey, seohong park<br>
 ![image](https://github.com/user-attachments/assets/df29bdc7-ac3b-43d6-9d0f-6e70a9b652c3)<br>
 ![image](https://github.com/user-attachments/assets/e0596b5e-8ca5-4d62-8692-13fa66ebe52b)<br>
