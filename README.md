@@ -116,13 +116,11 @@ error bound<br>
 14.[GRPO explanation blog in Mandarin](https://zhuanlan.zhihu.com/p/21046265072)<br>
 
 15.<br>
-(a)Generalized Advantage Estimation (GAE) = Q - V<br>
-(B)reward-weightedregression<br>
+(a)Generalized Advantage Estimation (GAE) <br>
+(B)reward-weighted-regression<br>
 ![image](https://github.com/user-attachments/assets/ced52b3a-68aa-4b3c-81f5-1ea4272ff9c6)<br>
-(c)[ADVANTAGE-WEIGHTED REGRESSION (AWR)](https://arxiv.org/pdf/1910.00177)<br>
+(c)[ADVANTAGE-WEIGHTED REGRESSION (AWR)](https://arxiv.org/pdf/1910.00177) AWR效果好于RWR<br>
 ![image](https://github.com/user-attachments/assets/27b9c2c3-145f-4638-a352-b0ee971d1a45)<br>
-
-
 
 
 
