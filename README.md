@@ -117,7 +117,7 @@ error bound<br>
 
 15.A(s, a) = Q(s, a) – V(s)<br>
 (a)Generalized Advantage Estimation (GAE) <br>
-![image](https://github.com/user-attachments/assets/31d2a65e-9db2-4413-a474-451685c6836c)
+![image](https://github.com/user-attachments/assets/31d2a65e-9db2-4413-a474-451685c6836c)<br>
 (B)reward-weighted-regression<br>
 ![image](https://github.com/user-attachments/assets/ced52b3a-68aa-4b3c-81f5-1ea4272ff9c6)<br>
 (c)[ADVANTAGE-WEIGHTED REGRESSION (AWR)](https://arxiv.org/pdf/1910.00177) AWR效果好于RWR<br>
