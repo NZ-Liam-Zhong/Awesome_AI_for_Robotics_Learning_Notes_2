@@ -106,6 +106,12 @@ error bound<br>
 12.[Unsupervised-to-Online Reinforcement Learning](https://arxiv.org/pdf/2408.14785) sergey, seohong park<br>
 ![image](https://github.com/user-attachments/assets/df29bdc7-ac3b-43d6-9d0f-6e70a9b652c3)<br>
 ![image](https://github.com/user-attachments/assets/e0596b5e-8ca5-4d62-8692-13fa66ebe52b)<br>
+
+13.[Efficient Online Reinforcement Learning
+ Fine-Tuning Need Not Retain Offline Data](https://arxiv.org/pdf/2412.07762)<br>
+ ![image](https://github.com/user-attachments/assets/08bcfc3c-76df-422e-8a84-8499ba91d763)<br>
+ ![image](https://github.com/user-attachments/assets/41afd1ed-1350-4087-af16-2ba82dd179b2)<br>
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
