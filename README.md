@@ -113,6 +113,9 @@ error bound<br>
  ![image](https://github.com/user-attachments/assets/41afd1ed-1350-4087-af16-2ba82dd179b2)<br>
 ![image](https://github.com/user-attachments/assets/e0c0a4b0-4a7a-40f6-826f-bd63831181b8)<br>
 
+14.[GRPO explanation blog in Mandarin](https://zhuanlan.zhihu.com/p/21046265072)
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
