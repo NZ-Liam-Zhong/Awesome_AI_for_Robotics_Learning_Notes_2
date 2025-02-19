@@ -111,6 +111,7 @@ error bound<br>
  Fine-Tuning Need Not Retain Offline Data](https://arxiv.org/pdf/2412.07762)<br>
  ![image](https://github.com/user-attachments/assets/08bcfc3c-76df-422e-8a84-8499ba91d763)<br>
  ![image](https://github.com/user-attachments/assets/41afd1ed-1350-4087-af16-2ba82dd179b2)<br>
+![image](https://github.com/user-attachments/assets/e0c0a4b0-4a7a-40f6-826f-bd63831181b8)<br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
