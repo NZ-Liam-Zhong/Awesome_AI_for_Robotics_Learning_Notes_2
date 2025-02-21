@@ -134,8 +134,13 @@ Contrastive Learning can be interpreted as actor critic method. High-dimentional
 plus temperature<br>
 ![image](https://github.com/user-attachments/assets/9996b11a-77cb-409f-8e16-dc25b5f95d65)<br>
 
-18.Goal Conditional RL<br>
+18.**Reward Shaping** in Goal Conditional RL<br>
+1.[A good slide for reward shaping](https://www.teach.cs.toronto.edu/~csc2542h/fall/material/csc2542f16_reward_shaping.pdf)<br>
 ![image](https://github.com/user-attachments/assets/f3abf176-5b67-4b72-9bc3-63c8af7d917c)<br>
+Problem of not 0<br>
+![image](https://github.com/user-attachments/assets/dff6b6d2-d23e-4597-95c5-dac68daf285b)<br>
+keep iterating<br>
+![image](https://github.com/user-attachments/assets/b3b6f670-4a68-4fe5-9fae-2b79b6d28215)<br>
 
 
 ## Industry
