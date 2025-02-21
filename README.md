@@ -125,6 +125,16 @@ error bound<br>
 
 16.[Randomn Doubt is important in doing research,example"Is Noise Conditioning Necessary for Denoising Generative Models?"](https://arxiv.org/pdf/2502.13129)
 
+17.[Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/e7663e974c4ee7a2b475a4775201ce1f-Paper-Conference.pdf)<br>
+Contrastive Learning can be interpreted as actor critic method. High-dimentional method have advantages than other methods.<br>
+(1)Method One<br>
+![image](https://github.com/user-attachments/assets/ae796fbd-8d22-4564-97f5-c2b6cad48775)<br>
+(2)Method two<br>
+![image](https://github.com/user-attachments/assets/a60e42c0-64c9-40e4-a48e-e4b58b8f30b9)<br>
+plus temperature<br>
+![image](https://github.com/user-attachments/assets/9996b11a-77cb-409f-8e16-dc25b5f95d65)<br>
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
