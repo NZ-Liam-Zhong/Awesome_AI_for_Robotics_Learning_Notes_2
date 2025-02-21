@@ -142,6 +142,10 @@ Problem of not 0<br>
 keep iterating<br>
 ![image](https://github.com/user-attachments/assets/b3b6f670-4a68-4fe5-9fae-2b79b6d28215)<br>
 
+19.[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476)<br>
+![image](https://github.com/user-attachments/assets/b9919a51-d073-4561-910e-3e10178bdd9f)<br>
+Max-Entropy regularization to avoid overfitting<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
