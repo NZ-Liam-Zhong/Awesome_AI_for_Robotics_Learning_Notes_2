@@ -134,6 +134,9 @@ Contrastive Learning can be interpreted as actor critic method. High-dimentional
 plus temperature<br>
 ![image](https://github.com/user-attachments/assets/9996b11a-77cb-409f-8e16-dc25b5f95d65)<br>
 
+18.Goal Conditional RL<br>
+![image](https://github.com/user-attachments/assets/f3abf176-5b67-4b72-9bc3-63c8af7d917c)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
