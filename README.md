@@ -146,6 +146,10 @@ keep iterating<br>
 ![image](https://github.com/user-attachments/assets/b9919a51-d073-4561-910e-3e10178bdd9f)<br>
 Max-Entropy regularization to avoid overfitting<br>
 
+20.[A Very Impressive paper Worth Reading,Foundation Policies with Hilbert Representations](https://arxiv.org/pdf/2402.15567)<br>
+![image](https://github.com/user-attachments/assets/9d25f218-599f-4abe-bf5b-a7207d1555aa)<br>
+![image](https://github.com/user-attachments/assets/403a9c9c-116f-41b7-a9dc-e8ebcf2ad314)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
