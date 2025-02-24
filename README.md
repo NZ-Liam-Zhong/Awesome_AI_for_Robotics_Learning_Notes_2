@@ -157,6 +157,7 @@ Quasimetric RL<br>
 22.[Prof. Shiyu Zhao course on RL](https://www.shiyuzhao.net/opencourse)<br>
 ![image](https://github.com/user-attachments/assets/4fe036ef-af29-4a58-9e08-f1eb7e2bcf80)<br>
 
+23. A = Q - V (Because only Q has a larger variance)<br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
