@@ -159,6 +159,8 @@ Quasimetric RL<br>
 
 23. A = Q - V (Because only Q has a larger variance)<br>
 
+24.on-policy -> off-policy : Actor-Critic
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
