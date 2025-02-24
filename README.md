@@ -150,6 +150,10 @@ Max-Entropy regularization to avoid overfitting<br>
 ![image](https://github.com/user-attachments/assets/9d25f218-599f-4abe-bf5b-a7207d1555aa)<br>
 ![image](https://github.com/user-attachments/assets/403a9c9c-116f-41b7-a9dc-e8ebcf2ad314)<br>
 
+21.[Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning](https://proceedings.mlr.press/v202/wang23al/wang23al.pdf)<br>
+Quasimetric RL<br>
+![image](https://github.com/user-attachments/assets/8d3c7ec1-c4fb-4277-82fc-0d9c1c6116a6)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
