@@ -159,7 +159,7 @@ Quasimetric RL<br>
 
 23. A = Q - V (Because only Q has a larger variance)<br>
 
-24.on-policy -> off-policy : Actor-Critic
+24.on-policy -> off-policy : Actor-Critic <br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
