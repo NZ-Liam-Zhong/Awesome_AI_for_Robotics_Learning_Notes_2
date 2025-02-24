@@ -154,6 +154,9 @@ Max-Entropy regularization to avoid overfitting<br>
 Quasimetric RL<br>
 ![image](https://github.com/user-attachments/assets/8d3c7ec1-c4fb-4277-82fc-0d9c1c6116a6)<br>
 
+22.[Prof. Shiyu Zhao course on RL](https://www.shiyuzhao.net/opencourse)<br>
+![image](https://github.com/user-attachments/assets/4fe036ef-af29-4a58-9e08-f1eb7e2bcf80)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
