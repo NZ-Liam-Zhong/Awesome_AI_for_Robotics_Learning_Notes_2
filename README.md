@@ -173,6 +173,9 @@ Use multiple rules to help to optimize<br>
 28.[Book: The Mathematics of Reinforcement Learning](https://www.wim.uni-mannheim.de/media/Lehrstuehle/wim/doering/RL/RL_VORLESUNG.pdf)<br>
 ![image](https://github.com/user-attachments/assets/a797d956-85b3-4e88-b604-7711a2ac259e)<br>
 
+29.In Goal Conditional RL, when reward set to minus, for example (-1,0), it will be quasi-metric.<br>
+![34940efc44f0c28638a37b3c9a0514a](https://github.com/user-attachments/assets/e0df3a29-f963-4546-8cdc-5e869ceaf95e)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
