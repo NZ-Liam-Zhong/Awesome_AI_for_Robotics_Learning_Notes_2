@@ -170,6 +170,10 @@ Use multiple rules to help to optimize<br>
 
 27.[Triangular Inequality in Reinforcement Learning,An Inductive Bias for Distances: Neural Nets That Respect the Triangle Inequality](https://openreview.net/pdf?id=HJeiDpVFPr)<br>
 
+28.[Book: The Mathematics of Reinforcement Learning](https://www.wim.uni-mannheim.de/media/Lehrstuehle/wim/doering/RL/RL_VORLESUNG.pdf)<br>
+![image](https://github.com/user-attachments/assets/a797d956-85b3-4e88-b604-7711a2ac259e)<br>
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
