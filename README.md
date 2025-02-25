@@ -161,6 +161,11 @@ Quasimetric RL<br>
 
 24.on-policy -> off-policy : Actor-Critic <br>
 
+25.[4D Reconstruction from a single video](https://arxiv.org/pdf/2407.13764)<br>
+![image](https://github.com/user-attachments/assets/353b7929-6e42-4ae4-8b8f-afad62f1208d)<br>
+Use multiple rules to help to optimize<br>
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
