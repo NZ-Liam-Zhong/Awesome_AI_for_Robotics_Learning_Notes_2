@@ -168,6 +168,7 @@ Use multiple rules to help to optimize<br>
 26.[Yann LeCun's world model for robot learning,Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](https://latent-planning.github.io/static/paper.pdf)<br>
 ![image](https://github.com/user-attachments/assets/8c32644c-84be-4c76-8f4c-661e340447f2)<br>
 
+27.[Triangular Inequality in Reinforcement Learning,An Inductive Bias for Distances: Neural Nets That Respect the Triangle Inequality](https://openreview.net/pdf?id=HJeiDpVFPr)<br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
