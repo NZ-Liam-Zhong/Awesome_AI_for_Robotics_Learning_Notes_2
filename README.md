@@ -180,6 +180,13 @@ Use multiple rules to help to optimize<br>
 ![image](https://github.com/user-attachments/assets/49b7ac5f-1b6e-4b84-9f3a-f1370801236f)<br>
  Lipschitz-constrained Skill Discovery (LSD)<br>
 
+31.[GENSIM: GENERATING ROBOTIC SIMULATION TASKS VIA LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.01361)<br>
+![image](https://github.com/user-attachments/assets/dc4b046e-d470-4fda-8ba4-8f91a0e43187)<br>
+
+32.[GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/pdf/2410.03645)<br>
+![image](https://github.com/user-attachments/assets/1545cfc0-3852-4ddb-ab52-56c33e58c351)<br>
+
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
