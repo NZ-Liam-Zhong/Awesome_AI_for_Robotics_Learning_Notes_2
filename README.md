@@ -176,6 +176,10 @@ Use multiple rules to help to optimize<br>
 29.In Goal Conditional RL, when reward set to minus, for example (-1,0), it will be quasi-metric.<br>
 ![34940efc44f0c28638a37b3c9a0514a](https://github.com/user-attachments/assets/e0df3a29-f963-4546-8cdc-5e869ceaf95e)<br>
 
+30.[LIPSCHITZ-CONSTRAINED UNSUPERVISED SKILL DISCOVERY](https://arxiv.org/pdf/2202.00914)<br>
+![image](https://github.com/user-attachments/assets/49b7ac5f-1b6e-4b84-9f3a-f1370801236f)<br>
+ Lipschitz-constrained Skill Discovery (LSD)<br>
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
