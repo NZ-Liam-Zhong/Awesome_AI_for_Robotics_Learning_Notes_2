@@ -186,6 +186,7 @@ Use multiple rules to help to optimize<br>
 32.[GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/pdf/2410.03645)<br>
 ![image](https://github.com/user-attachments/assets/1545cfc0-3852-4ddb-ab52-56c33e58c351)<br>
 
+33.[Appendix on Quasimetric space and optimal transport](https://openreview.net/references/attachment?id=hB5FFsuU3&name=supplementary_material)<br>
 
 
 ## Industry
