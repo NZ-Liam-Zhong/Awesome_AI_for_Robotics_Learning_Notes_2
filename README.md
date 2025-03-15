@@ -190,6 +190,7 @@ Use multiple rules to help to optimize<br>
 
 34.[OTTER:AVision-Language-Action Model with Text-Aware Visual Feature Extraction](https://arxiv.org/pdf/2503.03734)<br>
 ![image](https://github.com/user-attachments/assets/4e14b82d-8502-479d-86b0-9615c4c891e0)<br>
+![image](https://github.com/user-attachments/assets/43351bf2-bdad-4063-ac30-57357d4b63ed)<br>
 [Twitter](https://x.com/fangchenliu_/status/1900623471920738800)<br>
 
 ## Industry
