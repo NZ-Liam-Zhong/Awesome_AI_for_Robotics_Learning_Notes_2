@@ -189,6 +189,7 @@ Use multiple rules to help to optimize<br>
 33.[Appendix on Quasimetric space and optimal transport](https://openreview.net/references/attachment?id=hB5FFsuU3&name=supplementary_material)<br>
 
 34.[OTTER:AVision-Language-Action Model with Text-Aware Visual Feature Extraction](https://arxiv.org/pdf/2503.03734)<br>
+![image](https://github.com/user-attachments/assets/4e14b82d-8502-479d-86b0-9615c4c891e0)<br>
 [Twitter](https://x.com/fangchenliu_/status/1900623471920738800)<br>
 
 ## Industry
