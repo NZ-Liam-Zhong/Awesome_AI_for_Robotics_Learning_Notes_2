@@ -196,6 +196,11 @@ Use multiple rules to help to optimize<br>
 35.[Curating Demonstrations using Online Experience](https://arxiv.org/pdf/2503.03707?)<br>
 ![image](https://github.com/user-attachments/assets/0847ff93-9eb6-4768-a21e-618a87db2b96)<br>
 
+36.[MAXINFORL: BOOSTING EXPLORATION IN REINFORCEMENT LEARNING THROUGH INFORMATION GAIN MAXIMIZATION](https://arxiv.org/pdf/2412.12098)<br>
+The while paper is worth reading<br>
+![image](https://github.com/user-attachments/assets/c2425d65-6fd1-483e-902a-728a49952634)<br>
+
+
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
