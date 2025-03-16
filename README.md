@@ -193,6 +193,10 @@ Use multiple rules to help to optimize<br>
 ![image](https://github.com/user-attachments/assets/43351bf2-bdad-4063-ac30-57357d4b63ed)<br>
 [Twitter](https://x.com/fangchenliu_/status/1900623471920738800)<br>
 
+35.[Curating Demonstrations using Online Experience](https://arxiv.org/pdf/2503.03707?)<br>
+![image](https://github.com/user-attachments/assets/0847ff93-9eb6-4768-a21e-618a87db2b96)<br>
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
