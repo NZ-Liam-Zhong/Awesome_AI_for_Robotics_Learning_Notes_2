@@ -200,6 +200,9 @@ Use multiple rules to help to optimize<br>
 The while paper is worth reading<br>
 ![image](https://github.com/user-attachments/assets/c2425d65-6fd1-483e-902a-728a49952634)<br>
 
+37.[AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://agibot-world.com/blog/agibot_go1.pdf)<br>
+Combinations of existing works<br>
+![image](https://github.com/user-attachments/assets/5924e581-bdcb-494a-9a71-b79be635f5ac)<br>
 
 
 ## Industry
