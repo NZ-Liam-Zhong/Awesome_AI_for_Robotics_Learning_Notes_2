@@ -205,6 +205,11 @@ Combinations of existing works<br>
 The pictures are really good<br>
 ![image](https://github.com/user-attachments/assets/5924e581-bdcb-494a-9a71-b79be635f5ac)<br>
 
+38.[Flow Q Learning](https://arxiv.org/pdf/2502.02538)<br>
+![c8ece3557abc24a5f636d5a15ca1afa](https://github.com/user-attachments/assets/1657809d-87a3-41a4-9935-c3eb0bfc2796)<br>
+![b118165055093bcb5f40000c71f3087](https://github.com/user-attachments/assets/4af0433a-5019-46b3-ad5a-cda3c9a081f9)<br>
+
+39.[Tutorials on Diffusion Model](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa23/slides/lec11-diffusion.pdf)<br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
