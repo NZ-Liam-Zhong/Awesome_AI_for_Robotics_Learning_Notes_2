@@ -211,6 +211,13 @@ The pictures are really good<br>
 
 39.[Tutorials on Diffusion Model](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa23/slides/lec11-diffusion.pdf)<br>
 
+40.[Nvidia GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://d1qx31qr3h6wln.cloudfront.net/publications/GR00T_1_Whitepaper.pdf)<br>
+![image](https://github.com/user-attachments/assets/acae210f-9151-4414-a4f0-ee05308ceb06)<br>
+![image](https://github.com/user-attachments/assets/5791013c-817b-47ed-a47c-9484c33fc955)<br>
+vlm+skill token+dp<br>
+
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
