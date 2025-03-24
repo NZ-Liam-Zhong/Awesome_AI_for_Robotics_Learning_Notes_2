@@ -219,6 +219,8 @@ vlm+skill token+dp<br>
 41.[Gemini Robotics: Bringing AI into the Physical World](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)<br>
 ![image](https://github.com/user-attachments/assets/3b90f2ec-9fe4-4324-991e-a138e2339652)<br>
 
+42.[Slides about Multi-Agent RL](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring23/slides/cs486-lecture23-annotated.pdf)<br>
+Uinversity of Toronto<br>
 
 
 
