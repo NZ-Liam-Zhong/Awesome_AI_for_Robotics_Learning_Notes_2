@@ -222,7 +222,8 @@ vlm+skill token+dp<br>
 42.[Slides about Multi-Agent RL](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring23/slides/cs486-lecture23-annotated.pdf)<br>
 Uinversity of Toronto<br>
 
-
+43.[Tutorials on MARL](https://wnzhang.net/tutorials/marl2018/index.html)<br>
+SJTU<br>
 
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
