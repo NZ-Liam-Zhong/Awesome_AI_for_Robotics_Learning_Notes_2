@@ -225,6 +225,15 @@ Uinversity of Toronto<br>
 43.[Tutorials on MARL](https://wnzhang.net/tutorials/marl2018/index.html)<br>
 UCL<br>
 
+44.[Tutorials on DDPG & MADDPG](https://medium.com/machine-intelligence-and-deep-learning-lab/a-tutorial-on-maddpg-53241ae8aac)<br>
+![image](https://github.com/user-attachments/assets/b887685c-048d-4cd4-8ac4-7d95a3db3687)<br>
+![image](https://github.com/user-attachments/assets/1e88b63a-977e-49f7-aa62-c37f449d5119)<br>
+
+45.[Tutorials on offline multi-agent reinforcement learning](https://icml.cc/media/icml-2022/Slides/17592.pdf)<br>
+
+
+
+
 ## Industry
 Here we update some tech advance in the industry🔥🔥🔥
 There are too many start-ups doing the same thing, boring and useless. So, we will only update the AI for robotic start-ups who make **innovative products**
